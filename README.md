@@ -63,7 +63,7 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [URL_GITHUB_REPO_ANDA]
+    git clone https://github.com/ilhamdickyd/ksei-dashboard
     cd ksei-dashboard
     ```
 2.  **Install dependencies:**
