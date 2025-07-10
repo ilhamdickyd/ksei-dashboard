@@ -22,40 +22,45 @@ The dashboard focuses on three core perspectives: **Financial Asset Distribution
 The application is organized into three primary tabs for a comprehensive analytical experience.
 
 ### 1. Overview Tab
+
 Provides a high-level summary of the market's health with key performance indicators (KPIs) and general trends, allowing for a quick market snapshot.
 
-![Overview Tab Screenshot](https://i.imgur.com/ITmpT0G.png)
+![Overview Tab Screenshot](https://i.imgur.com/6PI20gg.png)
 
 ### 2. Analysis Tab
+
 Offers a deeper dive into the data, featuring dynamic insight alerts, historical performance metrics, and growth trend analysis to uncover non-obvious patterns.
 
-![Analysis Tab Screenshot](https://i.imgur.com/XtQGucQ.png)
+![Analysis Tab Screenshot](https://i.imgur.com/CNH6SvV.png)
 
 ### 3. Comparison Tab
+
 A powerful feature that gives users full control to perform side-by-side comparisons of different investment categories across various timeframes.
 
-![Comparison Tab Screenshot](https://i.imgur.com/CNH6SvV.png)
+![Comparison Tab Screenshot](https://i.imgur.com/XtQGucQ.png)
 
 ## Technology Stack
 
 This dashboard was built using a modern, scalable, and type-safe tech stack.
 
-| Category | Technologies Used |
-| :--- | :--- |
-| **Core Framework** | `Next.js`, `React`, `TypeScript` |
-| **Styling** | `Tailwind CSS`, `shadcn/ui` |
-| **Data Visualization**| `Recharts` |
-| **State Management**| React Hooks (`useState`, `useCallback`, `useMemo`) |
+| Category               | Technologies Used                                  |
+| :--------------------- | :------------------------------------------------- |
+| **Core Framework**     | `Next.js`, `React`, `TypeScript`                   |
+| **Styling**            | `Tailwind CSS`, `shadcn/ui`                        |
+| **Data Visualization** | `Recharts`                                         |
+| **State Management**   | React Hooks (`useState`, `useCallback`, `useMemo`) |
 
 ## Getting Started
 
 To get a local copy up and running, follow these simple steps.
 
 ### Prerequisites
+
 - [Node.js](https://nodejs.org/en/) (v18.x or higher)
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
 ### Installation
+
 1.  **Clone the repository:**
     ```bash
     git clone [URL_GITHUB_REPO_ANDA]
